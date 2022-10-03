@@ -1,3 +1,7 @@
+# Deployment
+
+View the project here: https://wonderful-dieffenbachia-642899.netlify.app/   
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
